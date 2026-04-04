@@ -62,6 +62,28 @@
 
 ---
 
+## Edit Mode — Fix Instead of Regenerate
+
+The tool supports `--input image.png` to send an existing image back to Gemini with an edit prompt. Tested:
+
+| Test | Edit instruction | Result |
+|---|---|---|
+| Fix typo | "Change SOCIAIL to SOCIAAL, remove duplicate node" | **Clean fix.** Both corrections applied, rest of diagram preserved exactly. |
+| Translate labels | "Change YES/NO to JA/NEE" | **Perfect.** Only the labels changed, layout/colors/content identical. |
+
+**Implications for the pipeline:**
+- Tier 2 diagrams (concept maps, fishbone) become Tier 1 with one edit pass
+- Workflow: generate → inspect → fix specific issues → done
+- Much cheaper than regenerating from scratch (preserves the good parts)
+- Can also be used for style changes (add color, change font emphasis) without re-prompting the full diagram
+
+**Edit prompting tips:**
+- Be surgical: name exactly what to change and say "keep everything else exactly the same"
+- Reference specific text strings: "change 'SOCIAIL' to 'SOCIAAL'" not "fix the typo"
+- One edit pass is reliable; chaining multiple edits may drift
+
+---
+
 ## Key Findings
 
 ### What Gemini Does Exceptionally Well

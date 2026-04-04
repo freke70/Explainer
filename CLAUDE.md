@@ -53,6 +53,8 @@ The Gemini image model (`tools/google_generate.py`) is excellent at structured e
 - Describe the spatial layout ("horizontal layers stacked on top of each other", "horizontal timeline from left to right")
 - The model handles text-in-images well — don't shy away from detailed labels
 
+**Edit mode:** Pass `--input existing.png` to fix issues without regenerating from scratch. Be surgical: "Change 'SOCIAIL' to 'SOCIAAL'. Keep everything else exactly the same." This makes Tier 2 diagrams (concept maps, fishbone) reliable — generate → inspect → fix.
+
 **API key env var:** `GOOGLE_AI_API_KEY`
 **Default model:** `gemini-3.1-flash-image-preview`
 

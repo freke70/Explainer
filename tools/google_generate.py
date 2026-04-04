@@ -3,6 +3,7 @@
 
 Usage:
     python google-generate.py --prompt "your prompt" --output output.png [--aspect-ratio 9:16]
+    python google-generate.py --prompt "fix the typo" --input source.png --output fixed.png
 """
 
 import argparse
@@ -28,6 +29,7 @@ def main():
     parser = argparse.ArgumentParser(description="Google Gemini direct image generation")
     parser.add_argument("--prompt", required=True, help="Image prompt")
     parser.add_argument("--output", required=True, help="Output file path")
+    parser.add_argument("--input", default=None, help="Input image to edit (enables edit mode)")
     parser.add_argument("--aspect-ratio", default=None, help="Aspect ratio (e.g. 9:16, 16:9, 1:1)")
     parser.add_argument("--model", default="gemini-3.1-flash-image-preview", help="Model name")
     args = parser.parse_args()
@@ -52,11 +54,28 @@ def main():
         response_modalities=["TEXT", "IMAGE"],
     )
 
-    print(f"Calling {args.model} (safety=BLOCK_NONE)...", file=sys.stderr)
+    # Build contents: text-only or image+text for edit mode
+    if args.input:
+        input_path = args.input
+        with open(input_path, "rb") as f:
+            img_bytes = f.read()
+        # Detect MIME type from extension
+        ext_lower = os.path.splitext(input_path)[1].lower()
+        mime_map = {".png": "image/png", ".jpg": "image/jpeg", ".jpeg": "image/jpeg", ".webp": "image/webp"}
+        mime = mime_map.get(ext_lower, "image/png")
+        contents = [
+            types.Part.from_bytes(data=img_bytes, mime_type=mime),
+            types.Part.from_text(text=args.prompt),
+        ]
+        print(f"Calling {args.model} in EDIT mode (safety=BLOCK_NONE)...", file=sys.stderr)
+        print(f"  Input: {input_path} ({len(img_bytes)} bytes, {mime})", file=sys.stderr)
+    else:
+        contents = args.prompt
+        print(f"Calling {args.model} (safety=BLOCK_NONE)...", file=sys.stderr)
 
     response = client.models.generate_content(
         model=args.model,
-        contents=args.prompt,
+        contents=contents,
         config=config,
     )
 
