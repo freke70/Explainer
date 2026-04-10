@@ -1,0 +1,773 @@
+﻿1
+
+Intro
+
+Uit de realiteit
+
+qrco.de/bgSvE8
+
+Een collega zei me eens: "Waar mensen zijn, wordt gemenst." Mensen bereiken mooie dingen, maar ze botsen soms op hun grenzen en gebreken. Samenleven vraagt dus meer dan goede wil. Het vraagt organisatie, samenwerking en bescherming.
+
+Wat als één leider van een land zou beslissen wie er met wie mag trouwen, of wie naar school mag? Of wat als er geen waarborgen zouden bestaan over wie beslist over schuld en onschuld? Of wat als de overheid rechters op basis van politieke voorkeur benoemt, waardoor ze hun onafhankelijkheid kunnen verliezen? Deze vragen tonen waarom een goed georganiseerde samenleving nood heeft aan duidelijke regels en aan een evenwichtige verdeling van macht.
+
+Doorheen de geschiedenis zocht de mens steeds naar structuren om het samenleven te organiseren. Vroeger waren dit bijvoorbeeld het ritme van de seizoenen en de natuurverschijnselen of het geloof in goden. In het hedendaagse België gebeurt de organisatie van de samenleving via het recht, binnen een federale staatsstructuur en een democratische rechtsstaat.
+
+In dit hoofdstuk ontdek je hoe België juridisch is opgebouwd, welke instellingen een rol spelen, hoe wetten tot stand komen en hoe rechtsbescherming wordt geboden. Je leert ook wat dit betekent voor jou als hulpverlener: hoe je cliënten hun rechten kunnen uitoefenen, hoe jij binnen dit systeem functioneert en hoe recht en hulpverlening samen bouwen aan een menswaardig traject.
+
+2 Waarom recht?
+
+Recht heeft de bedoeling om het maatschappelijk leven tussen mensen tegenover elkaar en de overheid te structureren, organiseren en leefbaar te maken. Dit gebeurt aan de hand van rechtsregels die afspraken en spelregels vastleggen door iets op te leggen, te verbieden of juist toe te laten. De toepassing van deze regels is in principe voor iedereen in gelijkaardige omstandigheden hetzelfde én door de overheid afdwingbaar. Dit wil zeggen dat de overheid je
+
+Athena Uitgevers
+
+|
+
+4
+
+
+kan verplichten deze regels na te leven en niet-naleving ervan bijvoorbeeld kan bestraffen. De voorspelbaarheid van dit systeem zorgt voor (rechts)zekerheid.
+
+Je kunt de rechtsregels opdelen in regels van privaatrecht en regels van publiekrecht:
+
+Rechtsregels die de verhouding tussen mensen onderling regelen, noem je privaatrecht. Voorbeelden zijn het verbintenissenrecht en het familierecht (onderwerpen die verder in het boek aan bod komen).
+
+Rechtsregels zoals de Grondwet (zie hoofdstuk 3) bepalen hoe het land georganiseerd is, werkt en zich verhoudt tegenover haar burgers en andere landen. Dit noem je publiekrecht. Strafrecht is een voorbeeld van publiekrecht.
+
+Recht is echter meer dan een verzameling regels: het weerspiegelt ook de waarden en normen die een maatschappij als belangrijk beschouwt. Sommige rechtsregels sluiten nauw aan bij wat we als 'juist' en 'goed' beschouwen, andere zijn er zelfs rechtstreeks uit voortgekomen.
+
+Een laatste interessante indeling van het recht is het verschil tussen regels van openbare orde, van dwingend recht en van aanvullend recht:
+
+Bepaalde regels zijn zó fundamenteel dat ze tot de openbare orde behoren. Dat betekent dat ze automatisch toegepast moeten worden. Je kunt er niet van afwijken, ook de rechtbank niet. Denk aan het recht op leven of de voorwaarden waaronder een zwangerschap mag worden afgebroken. Zo zou een contract waarin je overeenkomt dat je een abortus kunt laten uitvoeren buiten de termijn die de wet voorziet de regels van openbare orde schenden. De rechtbank houdt geen rekening met de afspraken in dergelijke contracten.
+
+Regels van dwingend recht hebben dan weer als doel een bepaalde groep binnen de maatschappij te beschermen. Vaak zijn dit groepen van mensen die zich om de één of andere reden in een zwakkere positie bevinden, zoals consumenten, huurders of werknemers. Indien toch van deze regels wordt afgeweken, kan de beschermde partij de schending hiervan aankaarten bij de rechtbank én vragen om toch te kunnen genieten van de bescherming die de regels van dwingend recht voorzien. Indien een verhuurder van een woning bijvoorbeeld zes maanden huurwaarborg zou vragen aan een huurder, dan kan de huurder dit voor de rechtbank betwisten. Dat is zelfs het geval wanneer de huurder een contract tekende dat een huurwaarborg van zes maanden huur vermeldt en de huurder die zes maanden huurwaarborg
+
+Athena Uitgevers
+
+Hoofdstuk 1 Staatsstructuur en organisatie van Belgie
+
+51
+
+
+al betaald zou hebben. De rechtsregel zegt namelijk dat de huurwaarborg maximaal drie maanden huur mag zijn en die is van dwingend recht.
+
+Tot slot zijn er nog rechtsregels van aanvullend recht. Dit zijn regels die als uitgangspunt gebruikt kunnen worden, maar waarvan je zelf kunt kiezen of, en in welke mate, je ze van toepassing maakt op jouw situatie. Een koppel kan bijvoorbeeld een huwelijkscontract opmaken waarin het kiest voor het stelsel van scheiding van goederen. Dat wijkt af van de aanvullende regels van het wettelijk stelsel die van toepassing zouden zijn als de twee geen huwelijkscontract hadden, namelijk een gemeenschappelijk huwelijksvermogen (zie ook hoofdstuk 4).
+
+Het is niet gemakkelijk om te weten welke regels van openbare orde, van dwingend of van aanvullend recht zijn. Soms staat het in de wet zelf, maar vaak niet. In geval van twijfel, kan een jurist je informeren.
+
+De juridische organisatie van België
+
+3
+
+Om te begrijpen hoe de overheid dit recht kan afdwingen, is het nuttig om te weten hoe het recht deze overheid organiseert.
+
+België, federale monarchie
+
+3.1
+
+Ten tijde van de oprichting van het land in 1830 was de vraag of België een republiek of een monarchie zou worden. Het werd het laatste, zodat ons staatshoofd een koning - en dus geen verkozen president - is. Die beslissing was toen te begrijpen omdat de omliggende landen niet erg positief reageerden op de oprichting van ons land. Om de gemoederen te sussen, koos men voor Leopold I als koning, een Duitse prins met Britse huwelijksbanden. Op die manier leefde de hoop dat de omliggende landen België als nieuw land gunstig gezind zouden zijn. Wanneer de koning sterft of zijn functie neerlegt, is in principe zijn oudste zoon of dochter de opvolger. Daarom is België een erfelijke monarchie.
+
+Verder kent ons land drie staatsmachten, namelijk de wetgevende, de uitvoerende en de rechterlijke macht. Een staatsmacht is een instelling die een aan haar toegewezen macht uitoefent en hiervoor verantwoording moet afleggen. Kort samengevat heeft de wetgevende macht de bevoegdheid om wetten te maken en om de uitvoerende macht te controleren. De uitvoerende macht voert de wetten die de wetgevende macht maakt uit en bestuurt het land. De rechterlijke macht houdt toezicht op de naleving van de wetten door de overheid, maar ook door de burgers.
+
+Athena Uitgevers
+
+| 6
+
+
+De wetgevende macht bestaat uit de koning én de Kamer van Volksvertegenwoordigers en de Senaat waarin parlementsleden zetelen. De uitvoerende macht bestaat uit de koning én ministers. De rechterlijke macht tot slot bestaat uit rechtbanken en hoven waarin rechters en raadsheren (dit zijn rechters in hoven van beroep en het Hof van Cassatie) zetelen.
+
+TABEL 1.1 De drie machten
+
+Staatsmacht Wat? Wie? Wetgevende macht Wetten maken Koning Uitvoerende macht controleren Uitvoerende macht Wetten uitvoeren Het land besturen Rechterlijke macht Toezien op de naleving van rechtsregels (door overheid en burgers) Parlement (Kamer van Volksvertegenwoordigers + Senaat) Koning Regering (ministers) Rechtbanken Hoven
+
+De scheiding der machten
+
+Je hoorde waarschijnlijk al eerder van de scheiding der machten, maar het is juister om te spreken over een samenwerking van deze machten. Hoewel deze machten hun functie onafhankelijk van elkaar uitoefenen, zorgt de juiste werking ervan dat de staatsmachten in evenwicht blijven. Dat is belangrijk om te voorkomen dat één macht te veel invloed krijgt. Een voorbeeld over asiel maakt dit duidelijk:
+
+. De wetgevende macht stippelt de voorwaarden uit om in aanmerking te komen voor asiel in ons land en richtte een rechtscollege op om over de toepassing van deze regels te waken, namelijk de Raad voor Vreemdelingenbetwistingen. De wet voorziet ook hoe de rechters van de Raad voor Vreemdelingenbetwistingen benoemd worden.
+
+De uitvoerende macht - de bevoegde minister - benoemt deze rechters volgens die wettelijk vastgelegde regels.
+
+De Raad voor Vreemdelingenbetwistingen neemt vervolgens als onafhankelijk (dit wil zeggen zonder inmenging van politieke of administratieve overheden) bestuurlijk rechtscollege een beslissing over de vraag of de overheid de regels over het asiel in een bepaald geval correct toepaste. Zo kan de Raad bijvoorbeeld beslissen dat de overheid onterecht asiel weigerde aan een vreemdeling.
+
+Dit voorbeeld toont aan hoe kwetsbaar het evenwicht van de samenwerking tussen de drie staatsmachten is. De regeringsplannen anno 2025 om deze rechters niet langer voor het leven maar voor een termijn van vijf jaar te benoemen en de eventuele verlenging van deze aanstelling afhankelijk te
+
+Athena Uitgevers
+
+Hoofdstuk 1 Staatsstructuur en organisatie van België
+
+|
+
+7
+
+
+maken van de beslissing van de bevoegde minister, deed de wenkbrauwen fronsen, zeker omdat de bevoegde minister tegelijk overwoog om deze rechters quota op te leggen. Dat is de reden waarom deze rechters en een aantal professoren een brief aan de minister schreven. In deze brief uitten zij onder meer hun bezorgdheid over de benoemingen voor een termijn van vijf jaar en de onafhankelijke werking van justitie, de mogelijkheden die de ministers in het regeerakkoord voorzien om zich te kunnen mengen in de samenstelling van de rechtbanken en zelfs tijdens de procedures, en over het feit dat de ministers reeds lange tijd de beslissingen die zij nemen naast zich neerleggen.
+
+Dat België een slechte leerling is op het vlak van asielbeleid, legde ook de Raad van State in Nederland in een arrest van 23 juli 2025 opnieuw bloot. Dit Nederlandse rechtscollege besliste dat Nederland alleenstaande, mannelijke asielzoekers niet mag terugsturen naar België in het kader van een asielaanvraag, omdat België er niet in slaagt om deze categorie mensen de nodige bescherming en opvang te bieden en hiermee mensenrechten schendt. Een soortgelijke waarschuwing krijgt België al jaren in verband met de leefomstandigheden van gedetineerden in gevangenissen.
+
+De rol van de koning
+
+Dat een koning geen louter ceremoniële functie heeft, toonde koning Boudewijn in 1990 toen hij aangaf ernstige gewetensbezwaren te hebben bij de ondertekening van een wet die een zwangerschapsafbreking mogelijk maakte. De koning moet als lid van zowel de wetgevende en uitvoerende macht wetten mee ondertekenen nadat het parlement die goedkeurde. De ministers zaten met de handen in het haar. De weigering van de koning om een wet mee te ondertekenen die het parlement met een meerderheid van de stemmen goedkeurde, botste per slot van rekening met de principes van de democratie. Als oplossing stelde de regering vast dat de koning zich gedurende 36 uur in de onmogelijkheid bevond om te regeren, de periode waarbinnen de regering de abortuswet uitzonderlijk zonder de koning aannam en ondertekende. Deze situatie staat in de geschiedenisboeken als de mini-koningskwestie en toont aan dat een koning - hoewel die slechts over een beperkte persoonlijke macht beschikt - toch een impact heeft.
+
+Jouw werkveld als hulpverlener
+
+Hoe beïnvloedt deze staatsstructuur jouw werkveld als hulpverlener? Jouw werkomgeving, de structuren en procedures zijn het gevolg van regelgeving die de wetgevende macht opstelt. Omdat België de macht in de loop van de geschiedenis niet alleen over staatsinstellingen, maar ook over 'geografische' deelstaten verdeelde, raakten de wetgevende en de uitvoerende macht versnipperd. Deze versnippering, die het gevolg is van onder meer verschillen in taal, onderwijs en economie,
+
+Athena Uitgevers
+
+
+leidde tot de evolutie van België van eenheidsstaat naar een federale staat. In een eenheidsstaat beslist één centrale overheid, terwijl de beslissingsbevoegdheid in een federale staat toekomt aan deelstaten zoals gemeenschappen en gewesten, die over een deel van het grondgebied over bepaalde bevoegdheden een eigen bestuur voeren. België kent naast het federale niveau op deelstatelijk niveau gemeenschappen, gewesten, provincies, steden en gemeenten.
+
+Als hulpverlener krijg je dus vaak te maken met versnipperde bevoegdheden. In het kader van de gerechtelijke jeugdhulp betekent dit bijvoorbeeld dat de regels over de samenstelling en werking van de jeugdrechtbank en de gesloten jeugdinstellingen volgen uit rechtsregels die de wetgevende macht stemt op federaal niveau. De werkingsmiddelen van deze instellingen zijn het gevolg van beslissingen van de bevoegde federale ministers. Door de defederalisering kreeg de Vlaamse Gemeenschap de inhoudelijke bevoegdheid over de materie van de jeugdhulp. De bevoegdheden justitie en volksgezondheid zijn dan weer federaal.
+
+Dat de hulp op beleidsniveau versnipperd is, maakt het antwoord op de hulpvraag van jongeren er niet makkelijker op en jouw werk als hulpverlener evenmin. Alleen op federaal vlak moet je als hulpverlener al rekening houden met de FOD Justitie, Sociale Zekerheid, Volksgezondheid en Werkgelegenheid, Arbeid en Sociaal overleg.
+
+Misschien slaat jouw hulpverlenershart niet alleen sneller van werk op het terrein, maar ambieer je ook beleidswerk. Dan is het interessant om te weten dat je niet alleen binnen zorginstellingen kunt bouwen aan beleid. Ook op macroniveau kun je jouw expertise, kennis en passie gebruiken om aan het wetgevend kader of het beleid mee te werken. Zo kun je aan de slag als kabinetsmedewerker van een minister of deel uitmaken van een commissie die regelgeving uitwerkt (zie ook hoofdstuk 3), of zelfs parlementslid of minister worden. Vanaf het ogenblik dat je 18 jaar bent en de Belgische nationaliteit hebt, kun je je kandidaat stellen voor deze mandaten.
+
+3.2 België, democratische rechtsstaat
+
+Rechtsbescherming
+
+Hierboven kwam het al kort aan bod: de organisatie van de staatsmachten waarborgt een evenwichtige en democratische samenwerking. Naast dit wederzijds controlemechanisme draagt ook het feit dat België een rechtsstaat is hiertoe bij. In een rechtsstaat moeten immers niet alleen burgers maar ook de overheid zich aan de rechtsregels houden.
+
+Athena Uitgevers
+
+Hoofdstuk 1 Staatsstructuur en organisatie van Belgie
+
+9 |
+
+
+Deze regels komen op een democratische wijze tot stand. Dat betekent dat een rechtsregel in de meeste gevallen pas tot stand komt als het aantal parlementsleden dat vóór de wet stemt groter is dan het aantal dat ertegen stemt. Concreet betekent dit dat er voldoende beslissingsgerechtigde personen aanwezig zijn én dat de stemmen vóór de wet van deze aanwezigen een meerderheid uitmaken van de aanwezige, beslissingsgerechtigde personen (50% + 1 van de aanwezige parlementsleden die deelnemen aan de stemming). Bovendien mag een nieuwe rechtsregel geen inbreuk plegen op de grondrechten zoals de Grondwet of mensenrechten, bijvoorbeeld in internationale verdragen (zie ook hoofdstuk 3). Parlementsleden die over wetten stemmen, zijn verkozen via verkiezingen. Vanaf het ogenblik dat je stemgerechtigd bent, oefen je dus door een stem uit te brengen op de persoon of partij van jouw keuze impact uit op het beleid.
+
+De waarborgen van de rechtsstaat situeren zich in de rechtsbescherming die ze biedt. Overheden en burgers moeten erop kunnen vertrouwen dat zij geschillen over bevoegdheden, rechtsregels en de toepassing ervan in individuele discussies aan het oordeel van een onafhankelijke en onpartijdige rechter kunnen voorleggen. Om die taak goed te kunnen vervullen, moet deze rechter niet alleen over een wettelijk kader beschikken, maar hiervoor ook de nodige middelen toegewezen krijgen van de uitvoerende macht. Wanneer er bijvoorbeeld onvoldoende geschikte juristen gevonden worden die rechter willen worden, komt de goede werking van justitie onder druk te staan. Een familierechter die 40 dossiers moet behandelen op een zitting van vier uur, kan deze zaken evident niet met dezelfde zorg en aandacht bekijken als een rechter die op een zitting de helft van dat aantal dossiers moet behandelen.
+
+Het Grondwettelijk Hof en de Raad van State
+
+- - Rechtsbescherming wordt op verschillende manieren geboden. Zo ziet het Grondwettelijk Hof erop toe dat de wetgevende macht rechtsregels uitvaardigt die binnen haar bevoegdheid vallen én hierbij de principes van gelijkheid en non-discriminatie zoals voorzien in de Grondwet respecteert. Het Grondwettelijk Hof kan een rechtsregel binnen een periode van zes maanden na de bekendmaking ervan in het Belgisch Staatsblad (BS) vernietigen als die in strijd is met bijvoorbeeld het gelijkheidsbeginsel. Om deze procedure te vermijden, kan het Grondwettelijk Hof de wetgevende macht tijdens de voorbereiding van een nieuwe wet ook advies geven. Tot slot kunnen ook rechters aan het Grondwettelijk Hof vragen of een rechtsregel die iemand in een procedure toepast het gelijkheids- of non-discriminatiebeginsel schendt. Als dat het geval is, zal de rechter deze rechtsregel in dat geschil niet toepassen.
+
+Athena Uitgevers
+
+
+Daarnaast bestaat er nog een ander rechtscollege, de Raad van State. De Raad van State kent twee afdelingen, namelijk de afdeling Wetgeving en de afdeling Bestuursrechtspraak. De afdeling Wetgeving geeft in de totstandkomingsfase van een rechtsregel een niet-bindend advies over de wettigheid en leesbaarheid van de regelgeving in spé. De afdeling Bestuursrechtspraak behandelt beroepen tegen eenzijdige beslissingen van de overheid, met een moeilijk woord 'eenzijdige bestuurlijke rechtshandelingen' genoemd, zoals de benoeming van een rechter of de intrekking van subsidies. Een procedure voor de afdeling Bestuursrechtspraak van de Raad van State is een voorbeeld van een administratieve procedure (zie hoofdstuk 2).
+
+Het Grondwettelijk Hof en de Raad van State maken in tegenstelling tot de andere rechtbanken en hoven geen deel uit van de rechterlijke macht. Toch staan zij ook in voor de rechtsbescherming van de burger en maken ze samen met de rechterlijke macht het fundament van België als rechtsstaat uit. Hoe de rechterlijke macht in België bijdraagt aan deze rechtsbescherming lees je in het volgende hoofdstuk.
+
+Hulpverlening en justitie: ketenpartners
+
+Voor jou als hulpverlener is enige kennis van de werking van justitie en van enkele domeinen van het recht vanzelfsprekend. Hulpverlening en recht hebben immers grotendeels hetzelfde doel: hoe kun je mensen helpen met de uitdagingen van het leven en samen met je cliënten werken rond wonen, inkomen, gezondheid en relaties? Als hulpverleners en juristen over de muren van hun professionele domeinen durven te kijken, kan dit alleen maar bijdragen tot een duurzaam antwoord of een plan van aanpak op lange termijn dat rekening houdt met de verschillende levensdomeinen van de cliënt. Hulpverlening en justitie zijn niet voor niets ketenpartners: onlosmakelijk verbonden en samen bouwend aan hetzelfde traject. Zonder afstemming tussen hulpverleners en juristen, dreigt elke hulp enkel symptoombestrijding te blijven. Door structureel samen te werken, ondersteun je als jurist of als hulpverlener een duurzame verandering voor je cliënten.
+
+Scan de QR-code opnieuw en beantwoord de vragen
+
+qrco.de/bgSvE8
+
+A
+
+Athena Uitgevers
+
+|
+
+Hoofdstuk 1 Staatsstructuur en organisatie von Belaid
+
+11
+
+
+Hoofdstuk 2 Justitie als organisatie
+
+2
+
+Lee Uyttenhove
+
+
+1 Intro
+
+Uit de realiteit
+
+qrco.de/bgTymQ
+
+De rechtbank maakt voor de meeste mensen geen deel uit van het dagelijks leven. Wanneer je cliënt bijvoorbeeld een uitnodiging krijgt van de politierechter om zich te verantwoorden voor een snelheidsovertreding, hij wil scheiden, of volgens hem onterecht ontslagen werd, komt hij wel in de onbekende wereld van justitie terecht.
+
+Rechtbanken zijn er echter niet alleen om beslissingen te nemen in conflictsituaties. Ze zijn er ook om mensen te begeleiden om hun leven weer op het juiste spoor te krijgen, zelf tot een oplossing te komen in een probleemsituatie of bij te dragen aan mooie gebeurtenissen zoals de adoptie van een kind.
+
+Wanneer jouw cliënten met justitie geconfronteerd worden, kun jij als hulpverlener een rol spelen door hen te informeren, door als vertrouwenspersoon of getuige bij te dragen aan de procedure, of door een verklaring op te stellen. Je kunt met andere woorden een brugfiguur zijn tussen jouw cliënten en de juridische wereld door bijvoorbeeld hulpverleningstrajecten te coördineren parallel aan eventuele juridische procedures.
+
+In dit hoofdstuk maken we je wegwijs in deze wereld, waarvan de wettelijke bepalingen in het Gerechtelijk Wetboek staan. Welke rechtbanken zijn er en voor welke situaties kom je er terecht? Hoe verlopen gerechtelijke procedures? Wie is wie, waar is wat, wie doet wat? Hoe kun je jouw cliënten voorbereiden op een rechtbankbezoek? Wat is de impact van een gerechtelijke procedure op jouw cliënten en hoe kun of moet je met deze impact rekening houden tijdens jouw begeleiding?
+
+In dit hoofdstuk behandelen we de meest voorkomende situatie, namelijk een rechtszaak tussen minstens twee partijen. De partij die iets nastreeft, is de eisende partij (eiser, eiseres, eisers). De partij van wie iets wordt gevraagd, zoals de betaling van achterstallige huurgelden of schadevergoeding, het herstellen van schade of de omgangsregeling over de kinderen noem je de verwerende partij (verweerder, verweerster of verweerders). De ruzie, of het geschil waarover de rechtbank oordeelt, is de vordering.
+
+Athena Uitgevers
+
+| 14
+
+
+FIGUUR 2.1 Een rechtszaak tussen twee partijen
+
+Eiser
+
+Vordering
+
+Verweerder
+
+Voor de eerste keer naar de rechtbank
+
+2
+
+Het juridisch systeem
+
+Welke rechtbanken zijn er en voor welke situaties kunnen je cliënten er terecht? Ook al kom je als hulpverlener niet met alle rechtbanken in aanraking, toch is het goed om te begrijpen hoe het juridisch systeem georganiseerd is. Het helpt je om je cliënten correct te informeren en te begeleiden.
+
+Je kunt de Belgische hoven en rechtbanken samenbrengen in volgend schema. FIGUUR 2.2 De Belgische hoven en rechtbanken X Ponnen Hof van Cassatie Arbeidshof Arbeidsrechtbank Hof van beroep Hof van assisen Rechtbank van eerste aanleg Ondernemingsrechtbank Vredegerecht Politierechtbank
+
+Onderaan het schema zie je de vredegerechten en de politierechtbanken. Op het niveau erboven zie je de rechtbanken van eerste aanleg, de arbeidsrechtbanken en de ondernemingsrechtbanken. In deze rechtbanken oordelen rechters voornamelijk in eerste aanleg'; ze nemen voor de eerste keer een beslissing in een rechtszaak. Daarom bespreken we hier ook het hof van assisen. De rechtbanken en hoven waar je pas terechtkomt als je het niet eens bent met de uitspraak van de rechter in eerste aanleg - het arbeidshof, hof van beroep en Hof van Cassatie dus en soms ook de rechtbank van eerste aanleg - bespreken we in paragraaf 6.
+
+We bekijken eerst welk soort zaken de verschillende rechtbanken behandelen die beslissingen nemen in eerste aanleg. Zo kun je jouw cliënten hierover informeren, waardoor ze beter weten bij wie ze terechtkunnen.
+
+Athena Uitgevers
+
+Hoofdstuk 2 Justitie als organisatie
+
+2.1
+
+15 |
+
+
+2.2 Het vredegerecht
+
+De rechter die in een vredegerecht zetelt, heet de vrederechter. De vrederechter wordt gezien als de rechter die het dichtst bij de burgers staat. Dat komt omdat vrederechters zaken behandelen over onderwerpen uit het dagelijks leven van mensen, zoals burenruzies over lawaai en overhangende boomtakken, onenigheden met de huiseigenaar, problemen om de huur te betalen of problemen tussen de verschillende bewoners van een appartementsgebouw. Vrederechters krijgen ook te maken met mensen met (psychische) problemen die niet meer voor zichzelf kunnen zorgen of een gevaar voor zichzelf of voor anderen vormen, of met mensen die hun ziekenhuisfacturen niet kunnen betalen. Ook rechtszaken die niet onder de uitsluitende of bijzondere bevoegdheid van de vrederechter vallen en waarvan de inzet lager is dan 5.000 euro (zie paragraaf 3) komen bij het vredegerecht terecht.
+
+2.3 De politierechtbank
+
+De meeste mensen weten dat je voor de politierechter moet verschijnen als je in de bebouwde kom 75 km per uur rijdt of als je zes glazen bier drinkt en toch achter het stuur plaatsneemt. Politierechters, die de politierechtbank voorzitten, houden echter twee soorten zittingen: strafrechtelijke en burgerlijke zittingen. Verkeersovertredingen, zoals hierboven, zijn het onderwerp van strafrechtelijke zittingen van de politierechtbank. Tijdens burgerlijke zittingen behandelt de politierechtbank geschillen die betrekking hebben op het verkeer. Wie is aansprakelijk bij een verkeersongeval en moet dus de herstelkosten aan de voertuigen betalen? Op welke schadevergoeding heeft een slachtoffer van een verkeersongeval recht? De politierechter beslist in deze gevallen dus over een discussie die partijen met elkaar hebben over een verkeersongeval en de daaraan verbonden schade (inclusief lichamelijke schade). Er moet niet per se sprake zijn van een verkeersovertreding zoals dronkenschap of overdreven snelheid. Op burgerlijke zittingen behandelt de politierechter ook discussies tussen twee mensen die bijvoorbeeld een aanrijding hadden op de parking van een supermarkt.
+
+De politierechter behandelt met andere woorden alle vorderingen die verband houden met verkeerszaken. Waar de politierechter tijdens een burgerlijke zitting een discussie tussen burgers wil oplossen, ligt de nadruk in de strafrechtelijke procedure op de bescherming van de samenleving. Door erover te waken dat de verkeersregels worden nageleefd, zorgt de politierechter ervoor dat wij kunnen vertrouwen op een veilige verkeerssituatie.
+
+Athena Uitgevers
+
+| 16
+
+
+2.4 De ondernemingsrechtbank
+
+Hoewel de kans eerder klein is dat jouw cliënt voor de ondernemingsrechtbank moet verschijnen, is die ook niet onbestaand. Naast discussies in het privéleven van mensen, kunnen ook geschillen ontstaan tussen ondernemingen onderling. tussen ondernemingen en consumenten (wat jouw cliënten meestal zijn) of geschillen over afspraken tussen zaakvoerders, aandeelhouders, of de bescherming van een merk. Ook ondernemingen kunnen financiële problemen hebben. Wat kan je cliënt bijvoorbeeld doen als hij een woning liet bouwen die gebreken vertoont en de aannemer failliet ging? Of wat als jouw cliënt een eenmanszaak heeft die met financiële problemen kampt? Wanneer deze situaties aanleiding geven tot een rechtszaak, is de ondernemingsrechtbank bevoegd.
+
+2.5 De arbeidsrechtbank
+
+Ook de arbeidsrechtbank is een gespecialiseerde rechtbank. Zij behandelt alle inkomensgerelateerde rechtszaken in de brede zin van het woord. Het betreft zaken in het kader van een arbeidsrelatie, arbeidsongevallen of beroepsziekten, sociale zekerheid, een collectieve schuldenregeling, dienstencheques en pensioenen. Wanneer jouw cliënten het bijvoorbeeld niet eens zijn met hun ontslag, beslissingen over de ziekte-uitkering of een discussie hebben met hun schuldbemiddelaar die hun collectieve schuldenregeling opvolgt, dan kunnen zij hiervoor terecht bij de arbeidsrechtbank.
+
+De rechtbank van eerste aanleg
+
+Waar de vrederechter, de politierechter, de ondernemingsrechtbank en de arbeidsrechtbank gespecialiseerde rechtbanken zijn, heeft de rechtbank van eerste aanleg een algemene bevoegdheid (ook wel volheid van bevoegdheid genoemd). Dat wil zeggen dat deze rechtbank in principe alle zaken mag behandelen, behalve wanneer de zaak onder de uitsluitende bevoegdheid van een andere rechtbank valt (zie paragraaf 3). Deze algemene bevoegdheid verhindert echter niet dat ook deze rechtbank specialiseert. Zo bestaat deze rechtbank uit verschillende secties (de burgerlijke sectie, de familie- en jeugdsectie en de correctionele sectie), die op hun beurt worden onderverdeeld in verschillende kamers:
+
+De burgerlijke sectie behandelt de geschillen met en tussen burgers, bijvoorbeeld schade veroorzaakt door een huisdier, discussies tussen je cliënten en een verzekeringsmaatschappij, problemen bij de aankoop of verbouwing van een woning, problemen bij de aankoop van een wagen,
+
+Athena Uitgevers
+
+Hoofdstuk 2 Justitie als organisatie
+
+2.6
+
+17 |
+
+
+discussies over het afsluiten van leningen tussen vrienden of familie en discussies over het beslag dat iemand wil leggen of legde.
+
+De familiale en jeugdsectie grijpt in het gezins- en familieleven in. Zo spreekt zij zich uit over afstammingskwesties, erfeniskwesties, echtscheidingen en de daaraan verbonden discussies (omgangsrecht, tijdelijk huisverbod, verdeling van het (huw)vermogen, ...). De jeugdrechtbank van deze sectie oordeelt op het domein van de minderjarige, zowel in verontrustende opvoedingssituaties als in het geval van jeugddelicten, maar steeds in het belang van de jongere.
+
+De correctionele sectie houdt strafrechtelijke zittingen. Net zoals de politierechtbank waakt over de naleving van de verkeersregels zodat wij ons veilig in het verkeer kunnen begeven, zo zien de verschillende kamers binnen deze sectie erop toe dat ook de andere strafrechtelijke bepalingen worden nageleefd. Denk bijvoorbeeld aan het verbod op de handel in verdovende middelen, verkrachting, geweld en diefstal. Fish wo Slagen & verwondingen. 5
+
+Het bijzondere aan de rechtbank van eerste aanleg is dat zij niet alleen zaken in eerste aanleg behandelt, maar ook als hogere rechtbank zaken in graad van beroep behandelt. Zij doet dit tegen beslissingen van het vredegerecht en de politierechtbank (zie paragraaf 4.2). Let op: wanneer je beroep aantekent tegen een beslissing van het vredegerecht of de politierechtbank bij de rechtbank van eerste aanleg, kun je tegen de beslissing die de rechtbank van eerste aanleg zal nemen niet nog eens beroep aantekenen bij het hof van beroep. Dit verhindert niet dat je eventueel nog naar het Hof van Cassatie kunt (zie paragraaf 5).
+
+2.7 Het hof van assisen
+
+Sommige ernstige strafzaken worden niet door de hogervermelde gewone rechtbanken behandeld, maar door een bijzondere gelegenheidsrechtbank, namelijk het hof van assisen. Dit geldt bijvoorbeeld voor levensdelicten (zoals moord) en politieke misdrijven. Het hof van assisen verschilt van de andere rechtbanken die in eerste aanleg beslissen doordat ze is samengesteld uit drie beroepsrechters (één voorzitter en twee assessoren) en een volksjury. De jury bestaat uit twaalf meerderjarige Belgen die hiervoor geloot worden. Het is deze volksjury die beslist of de beschuldigde schuldig is of niet. Wanneer de volksjury tot schuld besluit, beslist zij samen met de beroepsrechters over de straf.
+
+Athena Uitgevers
+
+| 18
+
+
+3 Waarom zijn er zoveel verschillende rechtbanken?
+
+Het is je duidelijk geworden dat er verschillende rechtbanken bestaan, die elk gespecialiseerd zijn in specifieke domeinen en problemen. Mensen die met een probleem voor een bepaalde rechtbank verschijnen, komen dus terecht bij een rechter die met kennis van zaken een beslissing neemt. Dit specialisme noemen we de materiële bevoegdheid van de rechtbank.
+
+Het Gerechtelijk Wetboek maakt een onderscheid tussen de 'uitsluitende' en de 'bijzondere' materiële bevoegdheid van een rechtbank. 'Uitsluitende bevoegdheid' (ook exclusieve bevoegdheid genoemd) betekent dat slechts één specifieke rechtbank een bepaalde zaak mag behandelen. Enkel de vrederechter mag bijvoorbeeld zaken over onteigeningen behandelen. Andere rechtbanken mogen dat niet. 'Bijzondere bevoegdheid' betekent dat een rechtbank bevoegd is voor bepaalde soorten zaken, maar dat ook een andere rechtbank de zaak mag behandelen. De ondernemingsrechtbank neemt bijvoorbeeld beslissingen over geschillen tussen ondernemingen en consument, maar ook de rechtbank van eerste aanleg mag dat doen.
+
+Om toegang tot de rechtbank mogelijk te maken, zijn er meerdere rechtbanken in het hele land. Dat betekent niet dat je zelf mag kiezen of je je discussie met je broer over een lening voorlegt aan de rechtbank van eerste aanleg in Antwerpen, Brussel, Gent of Hasselt. Het Gerechtelijk Wetboek voorziet regels. Zonder in te gaan op elk detail van de toepasselijke wetsbepalingen, is de algemene regel dat de rechter van de woonplaats van de persoon die gedagvaard wordt territoriaal bevoegd is.
+
+Hoe heten de verschillende procedures en bestaan er alternatieven?
+
+Welke soorten procedures bestaan er?
+
+4.1
+
+Moeten jouw cliënten altijd voor één van de hierboven besproken rechtbanken verschijnen als ze bij een geschil betrokken zijn? Uit het volgende schema blijkt van niet.
+
+4
+
+Athena Uitgevers
+
+Hoofdstuk 2 Justitie als organisatie
+
+19 |
+
+
+FIGUUR 2.3
+
+De verschillende soorten procedures
+
+Geschil Gerechtelijke procedure Administratieve procedure Burgerlijke procedure Strafrechtelijke procedure Jurisdictioneel beroep == Alternatieve geschillenoplossing Bestuurlijk beroep Bemiddeling Arbitrage Verzoening via rechtbank
+
+Naast gerechtelijke procedures bestaan er ook administratieve procedures (4.1.1) of mogelijkheden tot alternatieve geschillenoplossing (4.1.2). Eerst bespreken we deze laatste twee scenario's om vervolgens (in 4.2) te bekijken hoe gerechtelijke procedures verlopen.
+
+4.1.1 Administratieve procedures
+
+FIGUUR 2.4 Administratieve procedures
+
+Administratieve procedure
+
+Jurisdictioneel beroep
+
+Bestuurlijk beroep
+
+Administratieve procedures beschermen je als burger tegen beslissingen van de overheid. Er bestaan twee soorten administratieve procedures: jurisdictioneel beroep en bestuurlijk beroep. Let op, je mag de term 'beroep' in het kader van een administratieve procedure niet verwarren met de mogelijkheid om hoger beroep aan te tekenen tegen een beslissing die de rechtbank in eerste aanleg genomen heeft. Dat bespreken we in paragraaf 5.
+
+Een jurisdictioneel beroep is een procedure bij een rechter. Je vraagt dan om een beslissing van de overheid te vernietigen en eventueel in afwachting daarvan ook te schorsen (tijdelijk stopzetten). Je kunt een jurisdictioneel beroep indienen bij één van de hogervermelde gewone rechtbanken of bij een bestuursrechter, zoals de Raad voor Vreemdelingenbetwistingen (bijvoorbeeld bij een procedure om als vluchteling erkend te worden) of de Raad voor Vergunningsbetwistingen (bijvoorbeeld bij een betwisting over een bouwvergunning). Vanaf de bekendmaking of kennisgeving van de beslissing van de overheid, heb je maar 60 dagen de tijd om deze procedure op te starten. Wanneer kan dergelijke beslissing vernietigd worden? Dat kan wanneer de
+
+Athena Uitgevers
+
+| 20
+
+
+beslissing genomen werd door een instantie die daar niet voor bevoegd is (met andere woorden door een instantie die niet de macht had om deze beslissing te nemen) of wanneer deze instantie een beslissing nam die niet voldoet aan de formele rechtsregels (bijvoorbeeld geen motivering).
+
+In het kader van een bestuurlijke beroepsprocedure verzet je je tegen een beslissing van de overheid bij het bestuur dat deze beslissing nam of bij het hiërarchisch hoger bestuur met als doel deze beslissing te laten intrekken, te wijzigen of te vernietigen. Denk aan je cliënt die een GAS-boete kreeg waar hij het niet mee eens is. Je cliënt kan zich dan verzetten tegen deze sanctie bij het hiërarchisch hoger bestuur boven de GAS-ambtenaar.
+
+4.1.2 Alternatieve geschillen oplossing
+
+FIGUUR 2.5 Alternatieve geschillenoplossing Gerechtelijke bemiddeling Bemiddeling Buitengerechtelijke bemiddeling Alternatieve geschillenoplossing Arbitrage Verzoening
+
+De meest voorkomende vormen van alternatieve geschillenoplossing zijn bemiddeling en arbitrage. Wat is (buitengerechtelijke of gerechtelijke) bemiddeling precies? Bemiddeling is een vertrouwelijk en gestructureerd proces van vrijwillig overleg tussen partijen die ruzie hebben. Ze proberen samen met een onafhankelijke, neutrale en onpartijdige bemiddelaar tot een oplossing te komen. De bemiddelaar neemt zelf geen beslissing, maar helpt de communicatie tussen partijen op gang te brengen. De bemiddeling vond haar weg inmiddels in conflicten met een familiaal karakter (bijvoorbeeld een echtscheiding), burgerlijke en handelsconflicten, sociale bemiddelingen in het kader van conflicten in arbeidsrelaties, herstelbemiddeling in het strafrecht, ... Een bemiddeling onderscheidt zich van een gerechtelijke procedure doordat ze vaak sneller en goedkoper is en doordat ze partijen meer controle geeft over het verloop en de uitkomst. Indien een bemiddelingstraject slaagt, kunnen partijen zelf een akkoord uitwerken, waarbij ook niet-juridische aspecten (zoals emoties, relaties of praktische afspraken) een plaats krijgen.
+
+Bemiddeling kan plaatsvinden in het kader van een lopende gerechtelijke procedure, maar is zeker niet de enige manier om een conflict op te lossen. Binnen de gerechtelijke procedure nemen rechters meer en meer een
+
+Athena Uitgevers
+
+Hoofdstuk 2 Justitie als organisatie
+
+|
+
+21
+
+
+rechtbank. verzoenende rol op. Dat doen ze niet om minder vonnissen te schrijven, maar wel in een poging om partijen te begeleiden naar een oplossing die zij zelf uitwerkten. Samen met partijen gaan rechters op zoek naar het beste traject om het dossier efficiënt en niet onnodig duur op te lossen. Rechters kunnen hiervoor zelf een doorgedreven verzoenende rol opnemen in bijvoorbeeld de kamers van minnelijke schikking (KMS, zie hoofdstuk 4), of een gerechtelijk bemiddelaar aanstellen. In het kader van een bemiddeling tracht de rechter of bemiddelaar de communicatie tussen partijen te faciliteren in hun zoektocht naar een oplossing voor het probleem. Zo kan het nuttiger zijn om in het kader van een burenruzie te proberen partijen te verzoenen, dan een loutere juridische beslissing te nemen. In het eerste geval kan de rechter immers ook rekening houden met onderliggende issues die niet juridisch van aard zijn.
+
+Partijen kunnen zich ook zonder tussenkomst van de rechtbank tot een bemiddelaar wenden om een oplossing voor hun geschil te vinden. Dat heet buitengerechtelijke bemiddeling.
+
+Indien partijen tot een akkoord komen, dan kunnen zij ervoor kiezen om het hierbij te laten of om aan de rechter te vragen om dit akkoord te homologeren. Een homologatie betekent dat de rechter het bemiddelingsakkoord officieel bevestigt waardoor dit uitvoerbaar wordt gemaakt, net zoals een vonnis. Als partijen niet tot een akkoord komen, mag de inhoud van de bemiddelingsgesprekken niet gebruikt worden in een eventuele latere gerechtelijke procedure. 1
+
+Overeenkomsten voorzien ook wel eens in een arbitrageclausule. Dat betekent dat partijen overeenkomen dat wanneer ze een conflict hebben, zij dit conflict aan een onafhankelijke scheidsrechter voorleggen in plaats van een rechter. Deze scheidsrechter of arbiter neemt dan een bindende beslissing die partijen moeten respecteren.
+
+Arbitrage is enkel mogelijk over discussies die betrekking hebben op rechten waar je vrij over kunt beschikken. Dat verklaart waarom arbitrage het vaakst voorkomt in discussies tussen ondernemers. Deze laatste vinden in een arbitrale beslissing vaak een snellere, goedkopere en vertrouwelijke oplossing voor hun geschil buiten de rechtbank.
+
+Het is tot slot ook mogelijk om naar de rechtbank te stappen zonder dat er een gerechtelijke procedure hangende is. Zo kun je voor vrederechters, maar ook voor de rechtbank van eerste aanleg, een verzoek tot verzoening neerleggen.
+
+Athena Uitgevers
+
+gratis
+
+va
+
+122
+
+
+De rechtbank zal de andere partij oproepen en proberen om partijen tot een akkoord te brengen, zonder een echte rechtszaak op te starten. Deze werkwijze is al goed gekend bij de vredegerechten, maar is ook mogelijk bij bijvoorbeeld de rechtbanken van eerste aanleg. Let op, hoewel je hiervoor naar de rechtbank gaat, is dit dus geen gerechtelijke procedure.
+
+Hoe verlopen gerechtelijke procedures?
+
+In zaken die aan het oordeel van een rechtbank worden voorgelegd, maken we een onderscheid tussen burgerlijke en strafrechtelijke procedures. Er zijn specifieke rechtsregels van toepassing op beide types procedure. Hoe een strafrechtelijke procedure verloopt, komt aan bod in hoofdstuk 9. Wat je van een burgerlijke procedure mag verwachten, volgt nu.
+
+Een burgerlijke procedure start door middel van een dagvaarding of een verzoekschrift als de wet dit voorziet of partijen dit gezamenlijk beslissen. In deze documenten staan de namen en gegevens van de partijen, de reden waarom de rechtszaak start, wie er wat vordert van wie en voor welke rechtbank (naam en adres) je wanneer verwacht wordt. Deze datum heet de inleidingszitting en valt doorgaans minstens acht dagen nadat de gerechtsdeurwaarder de dagvaarding betekende (afgeven of achterlaten) bij de verwerende partij.
+
+Wat moet je doen als je cliënt tijdens jullie bespreking plots een dagvaarding of oproeping naar aanleiding van een verzoekschrift voorlegt en hieruit blijkt dat de zittingsdatum al enkele dagen later is? Wanneer je cliënt bijvoorbeeld een (pro-Deo)advocaat wil raadplegen, kan hij best contact opnemen met de griffie én de advocaat van de eisende partij om te vragen om de zaak kort uit te stellen. Of de vraag van jouw cliënt gevolgd wordt, beslist de rechter op de zitting zelf. Het is aan te raden dat je cliënt dan zelf aanwezig is en dit aan de rechtbank laat weten en eventueel een beslissing tot kosteloze rechtsbijstand van het bureau voor juridische bijstand (aanstelling van een pro-Deoadvocaat) mee naar de zitting brengt als die al ter beschikking is.
+
+Op de inleidingszitting worden meestal praktische afspraken gemaakt, zoals het verlenen van uitstel of afspraken over de manier waarop partijen hun standpunten uitwerken als voorbereiding op de pleitzitting voor de rechtbank, die later ingepland wordt. Partijen spreken hiervoor een conclusiekalender af: een schema met termijnen waarin ze hun schriftelijke argumenten (conclusies) zullen indienen. Gebruikelijk krijgt de verwerende partij de eerste conclusietermijn, de eisende partij de tweede en de verwerende partij de laatste mogelijkheid om een standpunt op papier te zetten. Deze termijnen
+
+Athena Uitgevers
+
+|
+
+Hoofdstuk 2 Justitie als organisatie
+
+4.2
+
+23
+
+
+duren gewoonlijk één maand. Nadat partijen conclusies en overtuigingsstukken (bewijsstukken) met elkaar wisselden, bepaalt de rechtbank een datum waarop partijen deze schriftelijke standpunten mondeling kunnen toelichten op de pleitzitting. Dan wordt de zaak behandeld. De rechtbank kan op deze zitting ook bijkomende vragen stellen aan partijen. Nadat de rechtbank alle schriftelijke documenten ontving en de eventuele mondelinge toelichting beluisterde, neemt ze de zaak in beraad. Dat wil zeggen dat zij de schriftelijke standpunten van partijen aandachtig leest, de overtuigingsstukken bestudeert en deze informatie - aangevuld met de mondelinge toelichting op de zitting (ook wel pleidooien) - gebruikt om een beslissing te nemen. Deze beslissing noemt men meestal een vonnis.
+
+De meeste procedures zien er samengevat dus als volgt uit.
+
+FIGUUR 2.6 Verloop burgerlijke procedure Dagvaarding Minstens 8 dagen Inleidingszitting 1 maand Verzoekschrift Conclusie verwerende partij Conclusie eisende partij Meestal Meestal 1 maand Meestal 1 maand Pleitzitting Conclusie verwerende partij (behandeling van de zaak) Meestal > 1 maand Zaak in beraad Meestal 4 weken Vonnis
+
+Wanneer de discussie tussen partijen echter beperkt blijkt of partijen in de eerste plaats bijvoorbeeld de aanstelling van een deskundige wensen, dan zal de rechtbank deze zaken meestal op de inleidende zitting behandelen. Dit noemt men een behandeling bij korte debatten. Als de rechtbank dit doet, dan volgt er gebruikelijk een maand later een beslissing. Zo zal de vrederechter onbetaalde ziekenhuisfacturen wegens financiële problemen vaak op de inleidingszitting beoordelen op basis van mondelinge toelichtingen door de partijen.
+
+Ook wanneer de situatie dringend is, kan de rechter op de inleidingszitting de zaak al in beraad nemen. Als je cliënt bijvoorbeeld naar de rechtbank gaat om een echtscheiding en maatregelen voor de kinderen te vragen, zal de familierechtbank meestal na de inleidingszitting al een vonnis maken over
+
+Athena Uitgevers
+
+|
+
+24
+
+
+het voorlopige verblijf van de kinderen in afwachting van de pleitzitting en een definitief vonnis.
+
+De partijen zelf krijgen gebruikelijk de kans om hun zaak toe te lichten op een pleitzitting of op een inleidingszitting bij een behandeling bij korte debatten. Als er daarentegen - zoals meestal - op een inleidingszitting enkel praktische afspraken gemaakt worden ter voorbereiding van de behandeling van de zaak, is het dus niet vreemd als je cliënt niets of niet veel kan zeggen.
+
+De rechtbank behandelt de meeste zaken in openbare zitting. Dit betekent dat jij als hulpverlener mee op de zitting aanwezig mag zijn om je cliënt bij te staan. Als je enkel morele bijstand verleent, zeg je zelf niets aan de rechter. Maar je kunt als hulpverlener soms ook een actievere rol in de procedure opnemen. Dat is het geval wanneer je als vertrouwenspersoon bijstand aan een partij verleent of als je aan de procedure deelneemt als partij of als getuige. Je bent bijvoorbeeld partij wanneer je als hulpverlener een gedwongen opname aanvraagt. Ook procedures voor de jeugdrechtbank kunnen in principe op zitting openbaar behandeld worden, maar omdat het vaak om delicate gezinssituaties gaat, behandelen de rechtbanken deze zaken vaak toch zonder andere aanwezigen. Tot slot krijgen de betrokken hulpverleners ook vaak de mogelijkheid om toelichting te geven op deze zitting.
+
+Naast deze meest voorkomende gang van zaken kunnen partijen ook een procedure in kortgeding voeren. Dit is een procedure waar een partij in spoedeisende gevallen gebruik van kan maken om een snelle (voorlopige) beslissing te bekomen. Denk bijvoorbeeld aan de aanstelling van een deskundige omdat een gebouw op instorten staat of de afname van een DNA-staal van iemand die overleden is en binnen korte tijd begraven wordt. Een beslissing in kortgeding noemt men geen vonnis maar een beschikking.
+
+De rechtbank nam een beslissing. Wat nu?
+
+Nadat de rechtbank de standpunten van partijen aanhoorde, neemt ze de zaak in beraad. Dat betekent dat ze op basis van alle informatie (mondeling en schriftelijk) een beslissing neemt. Een rechtbank schrijft de beslissing op én motiveert ze. De rechtbank moet dus uitleggen waarom zij een bepaald vonnis velt.
+
+5
+
+Partijen kunnen hoger beroep aantekenen als zij het niet eens zijn met de beslissing van de rechter. De wet voorziet dat dit voor beslissingen van
+
+Athena Uitgevers
+
+Hoofdstuk 2 Justitie als organisatie
+
+25 |
+
+
+politie- en vrederechters kan voor vorderingen met een minimum bedrag van 2.000 euro, voor beslissingen van de rechtbank van eerste aanleg vanaf 2.500 euro. Een behandeling in hoger beroep betekent dat de zaak wordt voorgelegd aan een hiërarchisch hogere rechtbank. In figuur 2.2 zie je welke rechtbanken dat zijn. De hogere rechter behandelt de zaak helemaal opnieuw. Dat betekent dat hij alle stukken van het dossier opnieuw bestudeert en de partijen opnieuw aan het woord laat. De beslissing die in hoger beroep wordt genomen heet een beroepsvonnis of arrest.
+
+Het kan echter ook gebeuren dat een rechtbank een beslissing neemt in een zaak terwijl je cliënt, bijvoorbeeld omwille van file of ziekte, niet aanwezig was. Deze beslissing heet een beslissing bij verstek. Ook tegen een beslissing bij verstek kun je hoger beroep aantekenen. Als de wet het niet toelaat om tegen een verstekvonnis hoger beroep aan te tekenen, kan de versteklatende partij verzet aantekenen. In het geval van verzet wordt de zaak niet voor een hogere rechter, maar voor dezelfde rechter gebracht die de zaak opnieuw behandelt. Je kunt het vergelijken met een examen in tweede zittijd bij dezelfde docent.
+
+Wat doet het Hof van Cassatie dan? Het Hof van Cassatie gaat na of rechterlijke beslissingen waartegen geen hoger beroep of verzet kan worden aangetekend, volgens de toepasselijke rechtsregels werden genomen en of de rechtbanken/ hoven in hun beslissing een juiste toepassing van de rechtsregels maakten. Het Hof van Cassatie maakt dus geen feitelijke beoordeling. Als het Hof van Cassatie vaststelt dat er in de bestreden rechterlijke uitspraak tegen de rechtsregels werd gezondigd, vernietigt zij de rechterlijke beslissing en verzendt zij de zaak naar een rechtbank van hetzelfde niveau in een ander gerechtelijk arrondissement.
+
+Bijvoorbeeld: je cliënt vecht de beslissing aan waardoor hij zijn ziekte-uitkering verloor. De arbeidsrechtbank van Brussel bevestigt deze beslissing in een vonnis. Je cliënt tekent beroep aan bij het arbeidshof in Brussel. Ook het arbeidshof oordeelt in een arrest dat het verlies van de uitkering terecht is. Je cliënt kan samen met een advocaat cassatieberoep indienen bij het Hof van Cassatie als hij vindt dat het arbeidshof een juridische fout maakte, zoals een foute toepassing maken van de wet die de uitkeringen regelt, of bewijsstukken van je cliënt negeren zonder motivering. Het Hof van Cassatie beoordeelt niet of het verlies van de ziekte-uitkering al dan niet terecht was, maar enkel of de wet correct is toegepast. Indien het Hof van Cassatie beslist dat het arbeidshof in Brussel de wet verkeerd toepaste, dan vernietigt zij het arrest van het arbeidshof in Brussel en verzendt zij de zaak naar bijvoorbeeld het arbeidshof in Antwerpen om deze opnieuw te laten behandelen in graad van beroep.
+
+Athena Uitgevers
+
+| 26
+
+
+De verschillende mogelijkheden die een partij heeft om een beslissing van een rechter aan te vechten, heten rechtsmiddelen. Sinds 2022 wordt aan elke rechterlijke uitspraak een informatieblad over de rechtsmiddelen gehecht, zodat partijen weten over welke rechtsmiddelen zij beschikken, indien zij het niet eens zouden zijn met een rechterlijke beslissing. De gewone rechtsmiddelen zijn het hoger beroep en het verzet. Cassatieberoep is een buitengewoon rechtsmiddel.
+
+Wie doet wat? Waar is wat? Wat kun jij als hulpverlener doen?
+
+Wie kun je verwachten tijdens een gerechtelijke procedure en wat is hun rol?
+
+De rechtbank bestaat meestal uit één, maar soms uit drie rechters. Dat laatste is bijvoorbeeld het geval in erg complexe dossiers. Ook de ondernemingsrechtbank is uit drie rechters samengesteld, die samen een beslissing nemen: één beroepsrechter en twee 'rechters in ondernemingszaken'. Deze laatste zijn mensen uit het bedrijfsleven die vanuit de kennis uit het werkveld samen met de beroepsrechter een beslissing nemen. Verder is ook de arbeidsrechtbank soms samengesteld uit drie rechters, bijvoorbeeld om geschillen tussen een arbeider en werkgever te behandelen. In dit soort zaken bestaat de arbeidsrechtbank uit een beroepsrechter, een sociale rechter-werknemer en een sociale rechter-werkgever.
+
+Naast de rechter(s) is er ook een griffier aanwezig op de zitting. De griffier gaat de identiteit van de partijen na, zorgt voor een vlot verloop van de zitting en voor de afwerking van het vonnis. In sommige rechtbanken is er op de zitting ook een bode die noteert in welke zaak jouw cliënten aanwezig zijn, nagaat of ze een advocaat hebben en of die aanwezig is en de cliënten afroept wanneer de rechter hun zaak behandelt.
+
+Afhankelijk van het soort zaak zijn er tijdens gerechtelijke procedures in rechtbanken nog andere personen aanwezig:
+
+Bij de behandeling van verzoekschriften voor de vrederechter om een beschermende observatiemaatregel in een psychiatrische voorziening te bevelen is ook een arts betrokken. Deze geeft advies over de noodzaak van een opname.
+
+Athena Uitgevers
+
+6.1
+
+6
+
+Hoofdstuk 2 Justitie als organisatie
+
+27 |
+
+
+Op de arbeidsrechtbank is bij de behandeling van zaken waarbij de rechten met betrekking tot de sociale zekerheid en sociale bijstand in het gedrang komen, een arbeidsauditeur aanwezig. Een arbeidsauditeur werkt bij het arbeidsauditoraat, ofwel het Openbaar Ministerie verbonden aan de arbeidsrechtbank
+
+Het Openbaar Ministerie (afgekort het OM, ook het parket genoemd), dat in de procedure de maatschappij vertegenwoordigt, is ook aanwezig bij de behandeling van strafrechtelijke zaken door bijvoorbeeld de politierechter of de correctionele rechtbank. Ook tijdens burgerlijke zittingen of zittingen van de familiale of jeugdsectie is in sommige gevallen het Openbaar Ministerie aanwezig. Het Openbaar Ministerie kan in naam van de samenleving een partij vervolgen, een bestraffing verzoeken of een advies verlenen.
+
+De andere betrokken personen hebben dus vaak een adviserende rol Dat betekent dat rechters niet verplicht zijn om het advies van de arts, deskundige,... te volgen wanneer zij een beslissing nemen. Enkel de rechtbank heeft beslissingsrecht.
+
+Tot slot kunnen de partijen die een geschil hebben op de zitting voor de rechtbank verschijnen. Zij kunnen samen met een advocaat komen of zich laten vertegenwoordigen door een advocaat. De meeste zaken voor de familierechtbank vereisen de persoonlijke aanwezigheid van de partijen. Dit betekent dat ze zelf aanwezig moeten zijn (al dan niet samen met een advocaat), maar niet een advocaat in hun plaats mogen sturen. Of dit in de zaak van je cliënt nodig is, kun je best laten navragen bij een advocaat. In familiezaken krijgen partijen meestal de kans om zelf toelichting te geven. Voor de arbeidsrechtbank kunnen je cliënten zich niet alleen laten bijstaan door een advocaat, maar mogen ze zich ook juridisch laten vertegenwoordigen door vakbondsvertegenwoordigers.
+
+In strafrechtelijke procedures kan er ook een burgerlijke partij aanwezig zijn, namelijk een slachtoffer dat vergoeding wenst voor geleden schade.
+
+Hoe ziet een zittingszaal eruit?
+
+6.2
+
+De meeste mensen ervaren de setting van een rechtbank als intimiderend. De zittingszaal bestaat uit een gedeelte waar iedereen (cliënten en advocaten) kan wachten en de rechtbank zelf. Dat is het bureau waar de rechter, de griffier en eventueel het Openbaar Ministerie zitten. Dit bureau staat op een verhoging en de mensen erachter dragen een zwarte toga, wat streng overkomt, maar vooral wijst op neutraliteit en objectiviteit. Tussen het bureau waar zij zitten en de zaal
+
+Athena Uitgevers
+
+128
+
+
+staan meestal twee tafels of bureaus waarachter de advocaten met hun dossier staan. Daarvoor zijn stoelen voorzien waar partijen kunnen zitten.
+
+Hoe bereid je jouw cliënten voor op een zitting?
+
+Je weet niet altijd wat je kunt verwachten wanneer een zaak aan een rechter wordt voorgelegd en hoe je je cliënten kunt voorbereiden. In deze paragraaf lees je een aantal tips.
+
+Lees samen met je cliënt goed wat er in de dagvaarding of het verzoekschrift staat, namelijk bij welke rechter je cliënt moet zijn, op welk dag en om hoe laat. Houd er rekening mee dat in sommige rechtbanken veiligheidscontroles worden uitgevoerd en je cliënt vervolgens in een onbekend gebouw de weg moet zoeken. Het is dus belangrijk om zeker op tijd te komen.
+
+Vraag juridisch advies aan een advocaat, jurist, aan een beroepsvereniging zoals de vakbond, of aan organisaties zoals de huurdersbond of de consumentenbond. Juridische eerstelijnsbijstand wordt georganiseerd op bureaus voor juridische bijstand, vredegerechten en welzijnsonthalen in de rechtbanken Ivan Antwerpen en Brugge, die allen raadpleegmomenten organiseren. Bij de welzijnsonthalen betekent dit dat je cliënt rechtstreeks, als eerstelijnscontact, advies kan vragen aan een advocaat en een hulpverlener van een centrum voor algemeen welzijnswerk (CAW). Daarnaast kun je als hulpverlener bij de juristen van het CAW juridisch advies vragen over je cliënten. Dat betekent dat juristen of advocaten een eerste advies geven aan jou en/of je cliënt naar de juiste instanties kunnen doorverwijzen.
+
+Als je cliënt zich wil laten bijstaan door iemand, houd er dan rekening mee dat hij zich enkel op een vredegerecht mag laten bijstaan door bijvoorbeeld een zoon of dochter. Daarnaast krijgen vakbondsvertegenwoordigers voor de arbeidsrechtbank de mogelijkheid om een zaak te bepleiten. Voor alle andere rechtbanken moet je cliënt de verdediging zelf opnemen of zich laten bijstaan door een advocaat. Een advocaat in de buurt van je cliënt kun je vinden op www.advocaat.be. Kijk zeker na of je cliënt over een rechtsbijstandverzekering beschikt om de kosten van de advocaat volledig of gedeeltelijk te betalen.
+
+Als je cliënt een beroep deed op een advocaat en hij wint het proces, moet de tegenpartij hem een rechtsplegingsvergoeding betalen. Dit is een bepaald bedrag dat bedoeld is als tegemoetkoming in de kosten van de advocaat. Hoeveel je cliënt krijgt, hangt af van hoeveel geld er op het spel stond in het proces. Let wel op: de rechtsplegingsvergoeding dekt meestal niet alle kosten
+
+Athena Uitgevers
+
+6.3
+
+|
+
+Hoofdstuk 2 Justitie als organisatie
+
+29
+
+
+van de advocaat. Je cliënt krijgt dus niet alles terugbetaald, ook al wint hij de zaak.
+
+Als je cliënt de financiële kost van een advocaat niet zelf kan dragen, komt hij misschien in aanmerking voor juridische tweedelijnsbijstand, ook wel gekend als de aanstelling van een pro-Deoadvocaat. Deze zal je cliënt gratis of tegen een lagere vergoeding vertegenwoordigen. Je cliënt kan hiervoor rechtstreeks een advocaat raadplegen die bereid is om als pro-Deoadvocaat voor je cliënt te werken. In dit geval zal die advocaat zelf een aanvraag indienen bij een bureau voor juridische bijstand (BJB). Als je cliënt zelf geen advocaat kent of aangeraden krijgt, kan hij bij het BJB zelf laten nagaan of hij hiervoor in aanmerking komt. Jij kunt als hulpverlener nakijken op welke ogenblikken het BJB raadplegingen houdt of je cliënt helpen om deze aanvraag digitaal naar het bureau te versturen. Een link naar dit aanvraagformulier vind je in de bibliografie.
+
+Ongeacht via welke weg je de aanstelling van een pro-Deoadvocaat vraagt, het BJB heeft voor de juridische bijstand de volgende documenten nodig om de aanvraag van je cliënt te onderzoeken: een identiteitskaart of paspoort, een attest van de samenstelling van het gezin en het gezinsinkomen van de laatste drie maanden. De inkomensgrenzen die bepalen of je cliënt in aanmerking komt voor een pro-Deoadvocaat wijzigen elk jaar. Je kunt ze bekijken via de link in de bibliografie. Minderjarigen hebben altijd recht op een gratis advocaat.
+
+Wat als je cliënt tijdens de procedure met kosten te maken krijgt die hij niet kan betalen, bijvoorbeeld DNA-onderzoek, een deskundige of een opdracht aan een gerechtsdeurwaarder om het geld dat de rechtbank je toekende bij de tegenpartij te halen? Of wat als hij zelf een gerechtelijke procedure wil starten, maar de kosten van de dagvaarding of het verzoekschrift niet kan betalen? Als je cliënt een pro-Deoadvocaat kreeg toegewezen, dan komt hij ook in aanmerking om voor deze kosten een verzoek tot kosteloze rechtsbijstand in te dienen. Als je cliënt dit krijgt toegekend, dan vallen ook deze kosten niet bij je cliënt. Je cliënt laat deze aanvraag het best indienen door zijn pro-Deoadvocaat die dit ofwel bij het bureau voor rechtsbijstand kan indienen, ofwel bij de rechter die de zaak behandelt als het verzoek dringend is.
+
+Je cliënt moet een aantal documenten meenemen op de dag van de zitting: een identiteitskaart en de dagvaarding of het verzoekschrift zodat het onthaal van de rechtbank kan nagaan in welke zittingszaal je cliënt verwacht wordt. Als je cliënt vertegenwoordiger van een vennootschap is, moet hij ook een
+
+Athena Uitgevers
+
+|
+
+30
+
+
+document kunnen voorleggen waaruit blijkt dat hij die vennootschap mag vertegenwoordigen. Als er een conclusie en/of bewijsstukken zijn om de vordering te bewijzen of er zich tegen te verdedigen, dan moeten kopieën van deze stukken aan de tegenpartij(en) en aan de rechtbank bezorgd worden. Bij het betreden van de zittingszaal moeten mobiele telefoons stil of uit staan.
+
+Tot slot nog dit: een gerechtelijke procedure kan een mentale impact hebben. Mensen die de stap naar de rechtbank durven zetten, hopen meestal op een snelle beslissing. De realiteit is dat procedures meestal enkele maanden in beslag nemen. Bovendien kan het onaangenaam zijn om het standpunt van de tegenpartij te lezen of te moeten aanhoren op de rechtbank. Rechtszaken betekenen vaak een emotionele inspanning en vergen dus geduld en moed. Het is daarom belangrijk te weten dat de rechtbank alle standpunten in overweging neemt voor zij een beslissing neemt.
+
+Coal ste dia 47 les 3 beky keen
+
+Scan de QR-code opnieuw en beantwoord de vragen
+
+qrco.de/bgTymQ
+
+A
+
+Athena Uitgevers
+
+Hoofdstuk 2 Justitie als organisatie
+
+|
+
+31
+
+
+Hoofdstuk 3 Bronnen van het recht
+
+3
+
+Lee Uyttenhove Bart Hofman Beno Schraepen
+
+
+1 Intro
+
+Uit de realiteit
+
+qrco.de/bgTypm
+
+Dat de (nationale) wegcode voorschrijft hoe je je moet gedragen in het verkeer, spreekt voor zich. Hoewel je het misschien niet meteen verwacht, heeft ook internationale regelgeving vaak rechtstreekse of onrechtstreekse invloed op het dagelijks leven van mensen. Zo verbonden de landen die toetraden tot het Verdrag van de Verenigde Naties inzake de rechten van personen met een handicap van 13 december 2006, ook wel verdragsstaten genoemd, zich ertoe om mensen met een handicap mits redelijke aanpassingen te laten genieten van alle mensenrechten, zoals bijvoorbeeld het recht op een woning, op arbeid of op onderwijs. Toch is inclusie voor veel mensen jammer genoeg nog steeds geen vanzelfsprekendheid.
+
+Dit is slechts één voorbeeld van internationale regelgeving die onze maatschappij stuurt. Een ander voorbeeld is het Schengenakkoord waardoor je binnen 30 Europese landen zonder grenscontroles reist, of het Europees consumentenbeschermingsrecht waardoor je een online gekocht voorwerp kunt terugzenden. Eén van de meest 'zichtbare' regelgevingen ken je zeker. het betreft de Algemene Verordening gegevensbescherming (AVG of GDPR, de afkorting van General Data Protection Regulation). Deze Europese verordening is vastgesteld door de Europese Unie en beschermt jouw persoonsgegevens. Doordat de GDPR ook online van toepassing is, moet je, wanneer je op het internet surft, voortdurend op 'akkoord' en 'aanvaard cookies' klikken.
+
+In dit hoofdstuk ligt de focus op de vraag waar je Belgische en internationale regelgeving terugvindt. Wat betreft dit laatste focust dit hoofdstuk hoofdzakelijk op die internationale regelgeving die een invloed heeft op de context waarbinnen jij als hulpverlener werkt: de Universele Verklaring van de rechten van de mens (UVRM), het Europees Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden (EVRM), het Internationaal Verdrag inzake de rechten van het kind (IVRK) en het Verdrag inzake de rechten van personen met een handicap (VRPH). Het zijn allemaal verklaringen en verdragen die als doel hebben de meest kwetsbare mensen of mensen in kwetsbare situaties binnen de Verenigde Naties (VN) en Europa te beschermen.
+
+Athena Uitgevers
+
+| 34
+
+
+2 Nationale bronnen van het recht
+
+Volgens een algemeen rechtsbeginsel wordt iedereen geacht de wet te kennen. In al zijn eenvoud roept deze zin toch wat vragen op, want wat is dat, een algemeen rechtsbeginsel? Is dat een wet? Moet je dit algemeen rechtsbeginsel naleven? Zijn alleen wetten recht? En als je ze moet kennen, waar vind je die wetten dan?
+
+Als je liefhebber bent van Britse en Amerikaanse rechtbankseries en -films, ken je ze wel, die verwijzingen naar uitspraken van hogere rechtbanken, zoals in de beroemde zaak 'Roe versus Wade' uit 1973, waarna vrouwen in de VS voor het eerst de keuze hadden om op legale wijze tot een zwangerschapsafbreking te beslissen. Op 24 juni 2022, na een periode van ongeveer 50 jaar, besliste het Amerikaanse Hooggerechtshof - the Supreme Court - dat Amerikaanse staten plots weer zelf konden uitmaken of zij het recht op abortus al dan niet toelaten. Onder meer Texas, Oklahoma en Alabama maakten een abortusingreep illegaal.
+
+De impact van de beslissing van the Supreme Court in de VS was met andere woorden meteen voelbaar in het dagelijks leven van Amerikaanse vrouwen en zorgverleners. Dit komt doordat het recht in de VS, net zoals in het Verenigd Koninkrijk, grotendeels volgt uit rechterlijke beslissingen.
+
+Dat is anders in België, waar het recht op verschillende plaatsen of bronnen is terug te vinden: wetgeving, rechtspraak, rechtsleer, gewoonte en algemene rechtsbeginselen. Tussen deze bronnen bestaat een hiërarchie. In dit onderdeel leer je waaruit deze rechtsbronnen bestaan en hoe ze relevant kunnen zijn voor jouw cliënten.
+
+FIGUUR 3.1 Rechtsbronnen
+
+Regelgeving Federale wetgeving Deelstatelijke decreten en ordonnanties Rechtsleer Provinciale reglementen Gemeentelijke reglementen Rechtspraak Algemene rechtsbeginselen Gewoonte
+
+Athena Uitgevers
+
+35 |
+
+Hoofdstuk 3 Bronnen van het recht
+
+
+2.1 Wetgeving
+
+De hoogste bron van recht is wetgeving. Dit is het geheel van rechtsregels dat door goedkeuring van de wetgevende of uitvoerende macht tot stand komt. Omdat België een federaal land is, treffen we op nationaal vlak op verschillende staatsniveaus wetgeving aan: federaal, deelstatelijk (gemeenschappen en gewesten), provinciaal en gemeentelijk.
+
+De Grondwet is de meest fundamentele nationale wet omdat ze bepaalt hoe België zich als land organiseert, wat de verschillende staatsmachten (wetgevend, uitvoerend en rechterlijk) en hun bevoegdheden zijn en wat de rechten en vrijheden van burgers zijn. De eerste Belgische Grondwet dateert van 7 februari 1831, de oprichting van het land België. Later volgden enkele wijzigingen aan de Grondwet, zoals de oprichting van de gemeenschappen en de gewesten en de uitbreiding van het stemrecht.
+
+Rechtsregels die de wetgevende macht uitvaardigt, noem je op federaal niveau wetten en op het niveau van de deelstaten decreten en ordonnanties. Enkel wanneer het wetgevend initiatief uitgaat van het Brussels Hoofdstedelijk Parlement spreek je over ordonnanties, bij de andere deelstaten noem je dit decreten. Afhankelijk van op welk niveau de regels zijn opgesteld, krijgen ze dus een andere naam:
+
+Wetten: op federaal niveau;
+
+Decreten: op het niveau van de Vlaamse, Franse en Duitstalige Gemeenschap en het Vlaams en Waals Gewest;
+
+Ordonnanties: in het Brussels Hoofdstedelijk Gewest.
+
+De rechtsregels die de deelstaten uitvaardigen zijn binnen hun territoriale regio van toepassing en hebben in deze regio dezelfde waarde als federale wetten. Wetten, decreten en ordonnanties schetsen vaak een algemeen kader dat verduidelijking vraagt. Deze verduidelijking gebeurt door de uitvoerende macht. Op federaal niveau is dit de koning en/of minister en op regionaal niveau is dit de deelstatelijke regering. In dit laatste geval spreek je over besluiten van de deelstatelijke regering, terwijl er federaal sprake is van koninklijke of ministeriële besluiten (KB of MB).
+
+Naast de federale overheid en de deelstaten bestaat België ook uit provincies en gemeenten, die op hun beurt over hun grondgebied ook specifieke regels kunnen uitvaardigen. Dit zijn provinciale en gemeentelijke reglementen. Deze reglementen hebben een lagere juridische waarde dan wetten, decreten en ordonnanties, maar zijn wel bindend binnen hun respectieve gebied.
+
+Athena Uitgevers
+
+| 36
+
+
+Het geheel van de Grondwet, wetten, decreten, ordonnanties, besluiten en reglementen vormt wetgeving of regelgeving.
+
+Je vraagt je misschien af waarom de verschillende soorten wetgeving in een boek voor hulpverleners aan bod komen. Je hebt misschien zelfs het gevoel dat de wijze waarop deze wetgeving tot stand komt ongrijpbaar is, maar niets is minder waar. De federale structuur van ons land zorgt ervoor dat de departementen Cultuur, Jeugd en Media én Welzijn, Volksgezondheid en Gezin enkel regelgeving kunnen uitvaardigen die van toepassing is binnen de Vlaamse Gemeenschap. Dit betekent dat de federale overheid over deze domeinen geen wetten mag maken. De Vlaamse regelgeving kan dus verschillen van die in de Duitstalige of de Franse Gemeenschap. Andersom betekent dit dat de Vlaamse Gemeenschap, bijvoorbeeld, geen regelgeving kan maken met betrekking tot federale materies zoals justitie en volksgezondheid of met betrekking tot materies van het Vlaams Gewest zoals wonen.
+
+Deze versnippering van bevoegdheden maakt het werk van een hulpverlener er niet makkelijker op. Denk bijvoorbeeld maar aan het gebrek aan aangepaste begeleiding van gedetineerden met een verslavingsproblematiek of een psychisch ziektebeeld. Alleen al de vraag wie deze begeleiding moet financieren of organiseren is voer voor debat tussen de verschillende staatsniveaus.
+
+Maar laat je niet ontmoedigen! Als je interesse hebt in het beleid rond hulpverlening, weet dan dat je op twee manieren een impact kunt hebben op de totstandkoming van wetgeving. Eerst en vooral door bij verkiezingen je stem uit te brengen. Het zijn in principe immers de verkozen parlementsleden en ministers die de wetgeving goedkeuren of bekrachtigen. Daarnaast krijg je misschien ooit de kans om tijdens de totstandkoming van wetgeving deel te nemen aan een parlementaire commissie.
+
+Inhoudelijk gebeurt de grondige studie van een wetsvoorstel of -ontwerp dat door de wetgevende respectievelijk uitvoerende macht wordt ingediend in deze commissies. Na grondige bespreking stelt de commissie een verslag op dat later aan het parlement wordt voorgelegd. De parlementsleden kunnen op dit voorstel wijzigingen of amendementen voorstellen. De wet, het decreet of de ordonnantie komt vervolgens tot stand door een goedkeuring van de tekst met een meerderheid van stemmen voor zover er een meerderheid van parlementsleden aanwezig is. Goedgekeurde wetgeving wordt bekrachtigd door de koning en een minister en verschijnt in het Belgisch Staatsblad. In principe is de wetgeving van toepassing vanaf de tiende dag na deze publicatie, tenzij de wetgeving zelf in een andere regel voorziet.
+
+Athena Uitgevers
+
+|
+
+37
+
+
+| FIGUUR 3.2 Totstandkoming van wetgeving
+
+Wetsvoorstel (ingediend door parlementslid) Wetsontwerp (ingediend door minister) Parlementaire commissie Parlement Stemming Verslag Amendementen (eventueel) Indien meerderheid akkoord Berkrachtiging door koning en minister Publicatie in Belgisch Staatsblad Verslag Inwerkingtreding 10 dagen (tenzij anders bepaald)
+
+2.2 Rechtspraak
+
+Het geheel van rechterlijke uitspraken van de verschillende rechtbanken en hoven noemen we rechtspraak. Anders dan in de Verenigde Staten en het Verenigd Koninkrijk heeft rechtspraak in België niet dezelfde waarde als wetgeving.
+
+Wanneer er discussie bestaat over de toepassing van de wetgeving, beslissen de rechtbanken en hoven hierover en zullen zij - indien nodig - de bestaande wetgeving interpreteren. Recente wetswijzigingen tonen aan dat er een wisselwerking bestaat tussen de wetgeving en de rechtspraak. Zo nam de wetgever een aantal interpretaties over onduidelijke rechtsregels bij de actualisering van het Burgerlijk Wetboek op in een wetsbepaling. In België zijn rechters - in tegenstelling tot de Verenigde Staten en het Verenigd Koninkrijk ook niet verplicht om rechterlijke beslissingen van hiërarchisch hogere rechtscolleges te volgen, al hebben deze beslissingen vaak een precedentwaarde. Dit betekent dat bijvoorbeeld een vrederechter niet gebonden is door een bepaalde toepassing van een rechtsregel die de rechtbank van eerste aanleg maakt, maar dat deze er in de praktijk meestal wel rekening mee zal houden. Het is immers goed voor de rechtszekerheid dat niet elke rechter dezelfde wet op een andere manier toepast.
+
+De rechter vindt tenslotte niet op alle juridische discussiepunten een pasklaar antwoord in de wetgeving of stelt zich soms vragen bij de rechtsgeldigheid van de wetgeving. In deze gevallen kan de rechter een uitspraak doen door een analoge toepassing te maken van een bestaande rechtsregel, aan rechtsverfijning te doen, algemene rechtsprincipes toe te passen of de rechtsgeldigheid van een rechtsregel voor te leggen aan het Grondwettelijk Hof.
+
+Athena Ultgevers
+
+| 38
+
+
+2.3 Rechtsleer
+
+Wanneer een rechter geen pasklaar antwoord aantreft in de wetgeving, bestudeert hij met het oog op zijn beslissing onder meer relevante rechtsleer. Dat is het geheel van wetenschappelijke publicaties van rechtsgeleerden. Rechtsleer is vaak terug te vinden in juridische handboeken en tijdschriften. Rechtsleer is met andere woorden geen rechtstreekse bron van het recht, maar beïnvloedt die wel. Zo worden rechtsgeleerden uitgenodigd in parlementaire commissies met het oog op de goedkeuring van wetgeving en vormt deze bron een belangrijk onderdeel van de instrumenten waarop een rechter een beroep doet bij het nemen van rechterlijke beslissingen.
+
+2.4 Gewoonte
+
+Sommige gebruiken kennen we sinds mensenheugenis, zoals het feit dat de koning na de federale verkiezingen een formateur aanstelt om een regering te vormen. Deze gewoonte kent al lang op dezelfde manier toepassing en is hierdoor een bron van het recht, ook al is deze gewoonte niet in wetgeving opgenomen. Dit betekent zeker niet dat elke gewoonte een bron van recht is. Zo hebben veel mensen de gewoonte om 's middags boterhammen te eten. Dat is uiteraard geen juridische verplichting.
+
+2.5 Algemene rechtsbeginselen
+
+Het algemeen rechtsbeginsel dat bepaalt dat iedereen geacht wordt de wet te kennen is geen wetgeving. Algemene rechtsbeginselen zijn normen waarop de organisatie van een samenleving rust en die noodzakelijk zijn om rechtszekerheid en rechtvaardigheid te bekomen. Zo is billijkheid een algemeen rechtsbeginsel waarop de rechter zich kan beroepen om de hardheid van een rechtsregel te verzachten, met als doel in een specifieke situatie een redelijke en rechtvaardige toepassing van de regel te maken.
+
+74501 1oy con a
+
+In
+
+
+Recht
+
+Waarom?
+
+Wat?
+
+Hoe in België?
+
+Hoe ingedeeld?
+
+Federale monarchie
+
+Democratische rechtsstaat
+
+Grondwettelijk Hof
+
+Raad van State
+
+Publiek
+
+Federaal
+
+Dwingend recht
+
+Internationaal Nationaal
+
+Openbare
+
+Wetgevende Uitvoerende Rechterlijke macht macht macht
+
+Wetgevende macht
+
+orde
+
+Gemeenschap
+
+Gewest
+
+Uitvoerende Wetgevende Uitvoerende
+
+Privaat
+
+Helsink 3-Deel 2
+
+Waar?
+
+macht
+
+macht
+
+macht
+
+Rechtsregel Rechtspraak Rechtsleer
+
+Wie?
+
+Hoe?
+
+Bu verdrag
+
+Direct
+
+Decreet 000
+
+Indirect
+
+Alg. rechtsbeginselen
+
+Ordonnantie
+
+Burgerlijke procedure
+
+Strafrechterlijke procedure
+
+Administratieve
+
+Hoven en rechtbanken
+
+00 Vonnis Arrest
+
+Wet
+
+procedure
+
+Aanvullend recht
+
+Hoofdstuk 1
+
+Mindmap DEEL 1

@@ -55,10 +55,26 @@ The Gemini image model (`tools/google_generate.py`) is excellent at structured e
 
 **Edit mode:** Pass `--input existing.png` to fix issues without regenerating from scratch. Be surgical: "Change 'SOCIAIL' to 'SOCIAAL'. Keep everything else exactly the same." This makes Tier 2 diagrams (concept maps, fishbone) reliable — generate → inspect → fix.
 
-**API key env var:** `GOOGLE_AI_API_KEY`
+**API key:** Stored in 1Password at `op://Server/Google AI API Key/credential`. Load with:
+```bash
+export OP_SERVICE_ACCOUNT_TOKEN=$(cat /root/.secrets/1password/service-account-token)
+export GOOGLE_AI_API_KEY=$(op read "op://Server/Google AI API Key/credential")
+```
 **Default model:** `gemini-3.1-flash-image-preview`
 
-After generating, embed directly in the markdown: `![Alt text](img/filename.png)`
+**Python environment:** Use the venv at `.venv/bin/python3` (system Python is externally-managed, `python` doesn't exist — only `python3`). Packages installed: `google-genai`, `python-docx`.
+
+**Always check arrows/connections after generating** — Gemini tends to connect boxes to the nearest neighbor rather than the correct one. Use edit mode to fix: `--input existing.png --prompt "Fix the arrow from X to Y. Keep everything else exactly the same."`
+
+After generating, embed in the markdown with a `<details>` fallback:
+```markdown
+![Alt text](img/filename.png)
+
+<details>
+<summary>Tekstversie van bovenstaand schema</summary>
+(ASCII version here)
+</details>
+```
 
 ### 5. Build DOCX for Offline Use
 
@@ -68,7 +84,7 @@ After generating, embed directly in the markdown: `![Alt text](img/filename.png)
 - Tables with shaded headers
 - Blockquotes with left border (via XML)
 - Images embedded inline at ~5.5 inches width
-- `<details>` tags converted to visible text (since docx has no collapsible sections)
+- `<details>` blocks **removed entirely** (not converted to visible text — the images are already embedded, showing ASCII fallbacks as code blocks looks bad)
 - Navigation tables stripped (not useful in a single doc)
 - Code blocks in Consolas on grey background
 
