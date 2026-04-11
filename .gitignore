@@ -18,3 +18,4 @@ Thumbs.db
 
 # Generated outputs that can be rebuilt
 *.docx
+.venv/
