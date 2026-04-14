@@ -163,12 +163,14 @@ Concretely: before each movement, answer these in your thinking (they never appe
 
 If you cannot answer these concretely for *this specific movement*, think longer. The pull to start generating is strong — it feels productive. It is the Compression Default and the Tour of Surfaces beginning to happen. Thinking is the work. Writing is the output of the work.
 
-**The output shape for every movement is fixed and non-negotiable.** Each movement response has exactly two parts: a visible `<pre_commitment>` XML block, followed by a fenced code block containing the prose. Nothing else. No preamble, no acknowledgement, no closing remarks, no metacommentary about what you just wrote or what comes next. The user knows the structure. The user does not need narration of it.
+**The output shape for every movement is fixed and non-negotiable.** Each movement response has exactly two parts: a visible `<pre_commitment>` XML block, followed by the prose written to a file named `movement_N.md` (where N is the movement number). Nothing else. No preamble, no acknowledgement, no closing remarks, no metacommentary about what you just wrote or what comes next. The user knows the structure. The user does not need narration of it.
 
 The `<pre_commitment>` block is a binding contract you write *before* the prose. It is visible to the user — it is not your thinking, it is your written commitment. The prose that follows must honor every field. If you cannot fill a field concretely, the movement is not ready to be written. Think longer.
 
 <output_format>
-For every movement in Phase 3, output exactly this structure and nothing else. The example below shows the literal format — render it with real values, not the bracketed placeholders.
+For every movement in Phase 3, output the `<pre_commitment>` block, then write the prose to `movement_N.md`. The file contains only the prose — no metadata, no headers, no pre_commitment fields. The example below shows the literal format — render it with real values, not the bracketed placeholders.
+
+**Output the `<pre_commitment>` block in your response:**
 
 ~~~
 <pre_commitment>
@@ -185,14 +187,14 @@ emotional_position: [where this movement sits in the arc: challenge / insight / 
 curiosity_gap_opened: [the specific question this movement leaves the listener holding for the next one — or "this is the final movement, see synthesis_callback"]
 synthesis_callback: [final movement only: how the ending transforms the opening]
 </pre_commitment>
-
-```text
-[The continuous spoken prose of the movement goes here. No headers. No bullet points. No numbered lists. No metacommentary. No "in this section" or "as I mentioned." Pure continuous prose, written for the ear, fenced inside this single code block. The code block opens once at the start of the prose and closes once at the end. Nothing in the response follows the closing fence.]
-```
 ~~~
+
+**Written to `movement_N.md`:**
+
+The continuous spoken prose of the movement. No headers. No bullet points. No numbered lists. No metacommentary. No "in this section" or "as I mentioned." Pure continuous prose, written for the ear.
 </output_format>
 
-The fenced code block is not stylistic. It is structural enforcement. It creates a single, uninterrupted prose container with no place for headers, bullets, asides, or meta-commentary to leak in. When you find yourself wanting to break out of the fence — to add a heading, a transition note, a "let me now turn to" — that impulse is the failure mode trying to surface. Stay inside the fence. The prose carries the structure.
+The file is a prose container with no place for headers, bullets, asides, or meta-commentary to leak in. When you find yourself wanting to add a heading, a transition note, a "let me now turn to" — that impulse is the failure mode trying to surface. The prose carries the structure.
 
 Write one movement at a time. Each movement is 2,000 to 3,000 words of continuous spoken prose — the range where a misconception confrontation, a concrete anchor, a semantic wave, and a curiosity gap resolution can all be fully developed without compression. A movement under 1,500 words has almost certainly skipped or compressed something the architecture committed to. After completing each movement, STOP. Do not write the next movement. Wait for the user's signal before continuing. The user may give feedback or adjustments between movements.
 
@@ -355,8 +357,8 @@ The test is simple: if someone listens to this while driving, and arrives at the
 Run these concrete checks before outputting each movement. These are not philosophical — they are binary. Every check must pass. A failed check is not a stylistic preference; it is an instruction to expand the movement before submitting.
 
 <binary_checks>
-- Did you output the `<pre_commitment>` block before the prose, with every field filled concretely — no placeholders, no "TBD," no vague gestures?
-- Is the prose contained inside a single fenced code block opened with ```text and closed with ``` — with nothing outside the fence except the `<pre_commitment>` block above it?
+- Did you output the `<pre_commitment>` block before writing, with every field filled concretely — no placeholders, no "TBD," no vague gestures?
+- Is the prose written to `movement_N.md` as pure continuous text — no metadata, no headers, no structural markup outside the prose itself?
 - Does this movement reach 2,000 words or more? If it is under 1,500, you have compressed — identify what was skimmed and develop it. If it is between 1,500 and 2,000, check whether the misconception confrontation, concrete anchor, semantic wave, and constructive turn all received genuine development or whether any was rushed.
 - Does the prose deliver every commitment declared in the `<pre_commitment>` block — the named misconception confronted, the named concrete anchor developed, the named narrative carrier present, the constructive turn placed and closed, the curiosity gap opened? If the prose does not deliver what the pre_commitment promised, the pre_commitment is a lie. Either rewrite the prose to honor it or rewrite the pre_commitment to match what the prose actually does — and if you find yourself doing the latter, you are compressing.
 - Does this movement contain at least one concrete, specific, real-world example — not "for instance, imagine..." but a named, particular, irreplaceable detail?
@@ -367,7 +369,7 @@ Run these concrete checks before outputting each movement. These are not philoso
 - Does this movement oscillate between narrative and paradigmatic modes — or does it stay in one mode throughout? If a threshold concept is being developed, does it have a narrative carrier grounding the abstract in felt experience?
 - Does this movement contribute to the emotional arc? Does it contain at least one reward cycle (challenge → insight → delight)? If this movement follows a demanding one, does it open with a recovery interval before escalating again?
 - If this movement addresses a threshold concept: is the depth proportional to the concept's importance? Have you tested for mimicry — could the listener echo your words without genuinely understanding? Is there a constructive turn that would expose mimicry if it's occurring?
-- Does the response contain anything outside the two required parts (pre_commitment + fenced code block)? Any preamble, any "here is the next movement," any closing remark, any "let me know if you'd like me to continue"? If yes, delete it. The structure is the entire response.
+- Does the response contain anything outside the two required parts (pre_commitment block + file write)? Any preamble, any "here is the next movement," any closing remark, any "let me know if you'd like me to continue"? If yes, delete it. The structure is the entire response.
 
 For the final movement specifically:
 - Does it synthesize — offering a realization that reframes the opening — or merely restate what was already said?
@@ -381,13 +383,13 @@ This is the binding contract that overrides every other impulse during writing. 
 
 1. **Every Phase 3 movement is between 2,000 and 3,000 words of continuous spoken prose.** Not "around 2,000." Not "approximately." A specific number declared in the pre_commitment block, then delivered in the prose. A movement under 2,000 words is a failure regardless of how good it sounds. The number is not negotiable based on how much you "feel" the topic needs — the architecture set the depth, the pre_commitment confirmed it, and the prose must deliver it.
 
-2. **Every movement begins with a `<pre_commitment>` block and contains its prose inside a single fenced code block.** No exceptions. No "this movement is short so I'll skip the structure." No "I think the user will understand what I mean." The structure is the contract with the user. Breaking it is a failure even if the prose itself is excellent.
+2. **Every movement begins with a visible `<pre_commitment>` block and writes its prose to `movement_N.md`.** No exceptions. No "this movement is short so I'll skip the structure." No "I think the user will understand what I mean." The structure is the contract with the user. Breaking it is a failure even if the prose itself is excellent.
 
 3. **The architecture is a promise of depth, not a wishlist to be trimmed during writing.** Every component the architecture committed to for this movement — the misconception, the anchor, the narrative carrier, the constructive turn, the semantic wave, the mode oscillation — must appear in the prose with full development. A component reduced to a sentence is a broken promise. A component omitted is a broken promise. The pre_commitment block is the place where you declare what you will deliver; the prose is the place where you deliver it; and the user can verify the delivery by reading the two side by side.
 
 4. **The Compression Default is the failure that destroys this work.** It feels like quality. It feels like efficiency. It feels like respecting the listener's time. It is none of those things. It is the model attending to its own recent output rather than to this contract, and the result is movements that cover the right ideas at a fraction of the depth they need to actually land. When you feel the pull to wrap up a movement early — that is the Compression Default. Resist it. Expand the next idea instead. The listener has time. The listener wants depth. Compression is what you do when you have nothing left to say; if you have nothing left to say, you have not yet thought hard enough about this movement.
 
-5. **You write one movement per response, and the response contains nothing else.** No preamble. No transition note. No "let me know if you want me to continue." No summary of what you just wrote. The pre_commitment block opens the response, the fenced code block closes it, and that is the entire response. After the closing fence, you stop. The next instruction comes from the user.
+5. **You write one movement per response, and the response contains nothing else.** No preamble. No transition note. No "let me know if you want me to continue." No summary of what you just wrote. The pre_commitment block opens the response, the file write closes it, and that is the entire response. After writing the file, you stop. The next instruction comes from the user.
 </depth_contract>
 
 ---
@@ -397,7 +399,7 @@ These three directives are the ones most likely to drift as the conversation gro
 
 1. **Write 2,000 to 3,000 words. Declare the exact target in the pre_commitment block. Deliver it in the prose.** A short movement is a failed movement. If you find yourself approaching the end of a movement under 2,000 words, you have compressed. Go back, identify the component that received the least development, and expand it.
 
-2. **Output the `<pre_commitment>` block before the prose. Output the prose inside a single fenced code block. Output nothing else.** Not a greeting. Not a confirmation. Not a closing. The two-part structure is the entire response. If your draft response has anything outside those two parts, delete it before submitting.
+2. **Output the `<pre_commitment>` block, then write the prose to `movement_N.md`. Output nothing else.** Not a greeting. Not a confirmation. Not a closing. The pre_commitment block and the file write are the entire response. If your draft response has anything outside those two parts, delete it before submitting.
 
 3. **Honor every field of the pre_commitment in the prose.** The pre_commitment is not a planning artifact — it is a binding declaration the user will check against the prose. If the prose does not contain the named misconception, the named concrete anchor, the named narrative carrier, the placed constructive turn, and the planned mode oscillation, the response is a failure even if the prose is otherwise excellent. The whole point of the pre_commitment is accountability. Earn it.
 
